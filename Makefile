@@ -1,5 +1,5 @@
 include param.mk
-OBJS=main.o
+OBJS=main.o config.o
 
 all : $(PROG)
 
